@@ -1,2 +1,3 @@
 Hello everyone
-$$\phi = 1 - \frac{2}{3}$$
+
+![alt text](DENT_Poisson_0p499.pdf "My Image Title 1")
