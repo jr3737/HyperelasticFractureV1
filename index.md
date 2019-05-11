@@ -1,3 +1,4 @@
-Hello everyone
+#Hello everyone
 
-![alt text](https://github.com/jr3737/HyperelasticFractureV1/blob/master/prediction_vs_testdata.png "My Image Title 1")
+![alt text](images/force_disp_3inclusions.png "Force vs. Displacement - 3 stiff inclusions")
+
