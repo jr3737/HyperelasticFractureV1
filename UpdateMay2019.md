@@ -1,4 +1,4 @@
-# Preliminary experiments on the hyperelastic composite materials with holes and inclusions
+# Modelling Update
 Date: May 11, 2019
 
 Author: J.B.Russ
