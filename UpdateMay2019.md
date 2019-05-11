@@ -8,4 +8,4 @@ I reran this numerical experiment with a Poissons ratio of 0.499 as before. I no
 
 ![alt text](images/force_disp_3inclusions.png "Force vs. Displacement - 3 stiff inclusions")
 
-![alt text](videos/inclusions.avi "Simulation animation - 3 stiff inclusions")
+![alt text](videos/inclusions.mp4 "Simulation animation - 3 stiff inclusions")
