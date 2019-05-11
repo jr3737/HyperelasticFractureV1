@@ -16,4 +16,4 @@ Note that I stopped the simulation early (it ran for approximately 1.5 days on m
 
 <img src="images/shear_test2.png" width="100%" />
 
-Thanks!
+Thank you Slava for letting me know how to make this webpage! It is very useful.
