@@ -19,11 +19,11 @@ I first tried to induce some shear with the example below but this turned out to
 
 <img src="images/shear_test2.png" width="100%" />
 
-Since that didn't work out I parameterized the geometry below and played with the sizing of different parts of the domain. The left end is fixed and a positive displacement loading is applied to the rightmost edge. The material between the two white lines is TangoPlus and the stiff VeroWhite material is places in the larger outer domain in order to provide some "support" for the very soft TangoPlus material.
+Since that didn't work out I parameterized the geometry below and played with the sizing of different parts of the domain. The left end is fixed and a positive displacement loading is applied to the rightmost edge. The material between the two white lines is TangoPlus and the stiff VeroWhite material is placed in the larger outer domains in order to provide some "support" for the very soft TangoPlus material.
 <img src="images/shear_test3.png" width="100%" />
 
-1. I'm not sure if this is a good idea to attempt to perform this experiment since the behavior is very complicated and I doubt I would be able to be very accurate numerically (especially with the complicated "shearband" that develops in the middle towards the end. What do you think about the ability to perform this test reliably Slava? It seems like the symmetry I develop would not be observed experimentally, and consequently, the "shearband" type deformation in the center would not be observed. 
-2. I chose this example because it demonstrates a situation in which I cannot obtain numerical convergence after the last frame in the video. I honestly don't think my solution I proposed before could alleviate this problem since the deformation of the mesh is so intense but I could try anyways.
+1. I'm not sure if this is a good idea to attempt to perform this experiment since the behavior is very complicated and I doubt my simulations would be very accurate (especially with the complicated "shearband" that develops in the middle towards the end). What do you think about the ability to perform this test reliably Slava? It seems like the symmetry I develop would not be observed experimentally, and consequently, the "shearband" type deformation in the center would not be observed. If that is the case then I doubt there is any value added here.
+2. I chose this example because it demonstrates a situation in which I cannot obtain numerical convergence after the last frame in the video. I honestly don't think my solution I proposed before could alleviate this problem since the deformation of the mesh is so intense even in regions where the phase field is not above 0.9 but I could try anyways.
 <p>
 <video controls src="videos/shear.mp4"  width="100%" />
 </p>
