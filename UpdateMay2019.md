@@ -23,10 +23,13 @@ Since that didn't work out I parameterized the geometry below and played with th
 <img src="images/shear_test3.png" width="100%" />
 
 1. I'm not sure if this is a good idea to attempt to perform this experiment since the behavior is very complicated and I doubt my simulations would be very accurate (especially with the complicated "shearband" that develops in the middle towards the end). What do you think about the ability to perform this test reliably Slava? It seems like the symmetry I develop would not be observed experimentally, and consequently, the "shearband" type deformation in the center would not be observed. If that is the case then I doubt there is any value added here.
-2. I chose this example because it demonstrates a situation in which I cannot obtain numerical convergence after the last frame in the video. I honestly don't think my solution I proposed before could alleviate this problem since the deformation of the mesh is so intense even in regions where the phase field is not above 0.9 but I could try anyways.
+2. I chose this example because it demonstrates a situation in which I cannot obtain numerical convergence after the last frame in the video. I honestly don't think my solution I proposed before could alleviate this problem since the deformation of the mesh is so intense even in regions where the phase field is not above 0.9 but I could try anyways. See the mesh distortion below.
 <p>
 <video controls src="videos/shear.mp4"  width="100%" />
 </p>
+
+Here is a simple png image of the mesh distortion intensity. There are 6 elements through the thickness of the "shearband" in the center which clearly is a very thin region.
+<img src="images/mesh_distortion.png" width="100%" />
 
 ## Questions/Remarks
 1. I will continue thinking about this and the experiment with the 3 stiff inclusions. I'm still not exactly sure why I underpredict the peak force by such a large amount.
