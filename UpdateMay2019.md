@@ -45,5 +45,5 @@ Here is a simple png image of the mesh distortion intensity. There are 6 element
 <video controls src="videos/center45degree.mov"  width="100%" />
 </p>
 <p>
-<video controls src="videos/center90degree.mov"  width="100%" />
+<video controls src="videos/center70degree.mov"  width="100%" />
 </p>
