@@ -17,3 +17,8 @@
 <p>
 <video controls src="videos/center70degree.mov"  width="100%" />
 </p>
+
+## Force-Displacement Curves
+The fracture toughness increases with increasing angle as expected. There doesn't seem to be any interesting behavior here surprisingly. 
+<img src="images/force_disp_center_crack.png" width="100%" />
+
