@@ -35,15 +35,3 @@ Here is a simple png image of the mesh distortion intensity. There are 6 element
 1. I will continue thinking about this and the experiment with the 3 stiff inclusions. I'm still not exactly sure why I underpredict the peak force by such a large amount.
 2. Slava - if you have any experimental insights you could offer me regarding either of these tests I would appreciate it. I'm not sure I fully understand what you meant before when you mentioned the existence of interphasial zones. Are you referring to locations where one of the two materials has diffused into the other? Perhaps it would be beneficial to talk over the phone sometime? Thank you!
 
-
-# Different center crack orientation videos
- 
-<p>
-<video controls src="videos/center0degree.mov"  width="100%" />
-</p>
-<p>
-<video controls src="videos/center45degree.mov"  width="100%" />
-</p>
-<p>
-<video controls src="videos/center70degree.mov"  width="100%" />
-</p>
